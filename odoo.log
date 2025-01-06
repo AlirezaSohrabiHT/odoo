@@ -1,0 +1,58 @@
+2025-01-06 19:30:38,275 13616 INFO ? odoo: Odoo version 18.0 
+2025-01-06 19:30:38,275 13616 INFO ? odoo: Using configuration file at C:\Users\alirza\Desktop\code\new\odoo-18.0\odoo.conf 
+2025-01-06 19:30:38,275 13616 INFO ? odoo: addons paths: ['C:\\Users\\alirza\\Desktop\\code\\new\\odoo-18.0\\odoo\\addons', 'c:\\users\\alirza\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\addons', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\odoo\\addons'] 
+2025-01-06 19:30:38,275 13616 INFO ? odoo: database: root@grande-casse.liara.cloud:32024 
+2025-01-06 19:30:38,545 13616 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-01-06 19:30:38,545 13616 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-01-06 19:30:39,209 13616 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-1ES34DP:8069 
+2025-01-06 19:30:42,125 13616 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:30:43,850 13616 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:30:57,595 13616 INFO ? odoo.service.server: Initiating shutdown 
+2025-01-06 19:30:57,595 13616 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-01-06 19:30:59,970 18596 INFO ? odoo: Odoo version 18.0 
+2025-01-06 19:30:59,970 18596 INFO ? odoo: Using configuration file at C:\Users\alirza\Desktop\code\new\odoo-18.0\odoo.conf 
+2025-01-06 19:30:59,970 18596 INFO ? odoo: addons paths: ['C:\\Users\\alirza\\Desktop\\code\\new\\odoo-18.0\\odoo\\addons', 'c:\\users\\alirza\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\addons', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\odoo\\addons'] 
+2025-01-06 19:30:59,970 18596 INFO ? odoo: database: root@grande-casse.liara.cloud:32024 
+2025-01-06 19:31:00,124 18596 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-01-06 19:31:00,140 18596 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-01-06 19:31:00,356 18596 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-1ES34DP:8069 
+2025-01-06 19:31:00,642 18596 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:31:00,976 18596 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:31:10,015 18596 INFO ? odoo.service.server: Initiating shutdown 
+2025-01-06 19:31:10,015 18596 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-01-06 19:31:10,446 18596 INFO ? odoo.sql_db: ConnectionPool(read/write;used=0/count=0/max=64): Closed 0 connections  
+2025-01-06 19:31:38,815 11932 INFO ? odoo: Odoo version 18.0 
+2025-01-06 19:31:38,830 11932 INFO ? odoo: Using configuration file at C:\Users\alirza\Desktop\code\new\odoo-18.0\odoo.conf 
+2025-01-06 19:31:38,830 11932 INFO ? odoo: addons paths: ['C:\\Users\\alirza\\Desktop\\code\\new\\odoo-18.0\\odoo\\addons', 'c:\\users\\alirza\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\addons', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\odoo\\addons'] 
+2025-01-06 19:31:38,830 11932 INFO ? odoo: database: root@grande-casse.liara.cloud:32024 
+2025-01-06 19:31:38,999 11932 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-01-06 19:31:38,999 11932 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-01-06 19:31:39,262 11932 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-1ES34DP:8069 
+2025-01-06 19:31:39,548 11932 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:31:39,849 11932 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:32:11,496 11932 INFO ? odoo.service.server: Initiating shutdown 
+2025-01-06 19:32:11,496 11932 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-01-06 19:32:11,544 11932 INFO ? odoo.sql_db: ConnectionPool(read/write;used=0/count=0/max=64): Closed 0 connections  
+2025-01-06 19:32:14,400 2488 INFO ? odoo: Odoo version 18.0 
+2025-01-06 19:32:14,400 2488 INFO ? odoo: Using configuration file at C:\Users\alirza\Desktop\code\new\odoo-18.0\odoo.conf 
+2025-01-06 19:32:14,400 2488 INFO ? odoo: addons paths: ['C:\\Users\\alirza\\Desktop\\code\\new\\odoo-18.0\\odoo\\addons', 'c:\\users\\alirza\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\addons', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\odoo\\addons'] 
+2025-01-06 19:32:14,400 2488 INFO ? odoo: database: root@grande-casse.liara.cloud:32024 
+2025-01-06 19:32:14,569 2488 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-01-06 19:32:14,585 2488 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-01-06 19:32:14,832 2488 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-1ES34DP:8069 
+2025-01-06 19:32:15,313 2488 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:32:15,775 2488 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:33:54,084 2488 INFO ? odoo.service.server: Initiating shutdown 
+2025-01-06 19:33:54,084 2488 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-01-06 19:34:24,345 12260 INFO ? odoo: Odoo version 18.0 
+2025-01-06 19:34:24,345 12260 INFO ? odoo: Using configuration file at C:\Users\alirza\Desktop\code\new\odoo-18.0\odoo.conf 
+2025-01-06 19:34:24,345 12260 INFO ? odoo: addons paths: ['C:\\Users\\alirza\\Desktop\\code\\new\\odoo-18.0\\odoo\\addons', 'c:\\users\\alirza\\appdata\\local\\openerp s.a\\odoo\\addons\\18.0', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\addons', 'c:\\users\\alirza\\desktop\\code\\new\\odoo-18.0\\odoo\\addons'] 
+2025-01-06 19:34:24,345 12260 INFO ? odoo: database: root@grande-casse.liara.cloud:32024 
+2025-01-06 19:34:24,483 12260 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltopdf to print a pdf version of the reports. 
+2025-01-06 19:34:24,498 12260 INFO ? odoo.addons.base.models.ir_actions_report: You need Wkhtmltoimage to generate images from html. 
+2025-01-06 19:34:24,762 12260 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-1ES34DP:8069 
+2025-01-06 19:34:25,187 12260 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:34:25,652 12260 INFO ? odoo.sql_db: Connection to the database failed 
+2025-01-06 19:37:05,392 12260 INFO ? odoo.service.server: Initiating shutdown 
+2025-01-06 19:37:05,392 12260 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2025-01-06 19:37:05,595 12260 INFO ? odoo.sql_db: ConnectionPool(read/write;used=0/count=0/max=64): Closed 0 connections  
